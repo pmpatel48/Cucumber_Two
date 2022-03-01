@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="39236" started-at="2022-02-27T01:18:02 GMT" finished-at="2022-02-27T01:18:41 GMT">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="39236" started-at="2022-02-27T01:18:02 GMT" finished-at="2022-02-27T01:18:41 GMT">
+      <class name="allTestCases.AmazonBasketTestCases">
+        <test-method status="PASS" signature="loginValidation()[pri:0, instance:allTestCases.AmazonBasketTestCases@7a765367]" name="loginValidation" duration-ms="39181" started-at="2022-02-27T01:18:02 GMT" finished-at="2022-02-27T01:18:41 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginValidation -->
+      </class> <!-- allTestCases.AmazonBasketTestCases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
